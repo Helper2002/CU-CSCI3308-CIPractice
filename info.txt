@@ -1,0 +1,3 @@
+2: build error: no such file or directory check.h on include check.h. fixed by running make dep
+3: all tests pass
+
